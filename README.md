@@ -1,4 +1,4 @@
-# Autodistill with Synthetic Data from DALLE-2 using LLaMa 2
+# Autodistill with Synthetic Data from DALL-E 2 using LLaMa 2
 
 ## Table of Contents
 
