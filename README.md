@@ -30,6 +30,7 @@ By leveraging synthetic data, we can potentially improve the target model's robu
 3. [Autodistill](https://github.com/autodistill/autodistill)
 
 - Try the attached notebook for further instructions.
+- For the weights file, please check the attached text file in runs folder
 
 ## Contributing
 
