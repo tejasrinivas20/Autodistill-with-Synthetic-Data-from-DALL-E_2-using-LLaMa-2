@@ -32,6 +32,20 @@ By leveraging synthetic data, we can potentially improve the target model's robu
 - Try the attached notebook for further instructions.
 - For the weights file, please check the attached text file in runs folder
 
+## Test Results
+
+I've sourced the test data from [this repo](https://github.com/Thinklab-SJTU/S2TLD). And here are few test results.
+
+![Image 1](./runs/predict/000000.jpg)
+![Image 2](./runs/predict/000001.jpg)
+![Image 3](./runs/predict/000002.jpg)
+![Image 4](./runs/predict/000003.jpg)
+![Image 5](./runs/predict/000004.jpg)
+![Image 6](./runs/predict/000793.jpg)
+![Image 7](./runs/predict/000792.jpg)
+
+
+
 ## Contributing
 
 Contributions to this project are welcome! If you want to contribute, please follow these steps:
