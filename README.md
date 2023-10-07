@@ -4,6 +4,7 @@
 
 - Introduction
 - Usage
+- Test Results
 - Contributing
 - License
 
