@@ -2,11 +2,11 @@
 
 ## Table of Contents
 
-- Introduction
-- Usage
-- Test Results
-- Contributing
-- License
+- [Introduction](#introduction)
+- [Usage](#usage)
+- [Test Results](#test-results)
+- [Contributing](#contributing)
+- [License](#license)
 
 ## Introduction
 
@@ -44,8 +44,6 @@ I've sourced the test data from [this repo](https://github.com/Thinklab-SJTU/S2T
 ![Image 5](./runs/predict/000004.jpg)
 ![Image 6](./runs/predict/000793.jpg)
 ![Image 7](./runs/predict/000792.jpg)
-
-
 
 ## Contributing
 
